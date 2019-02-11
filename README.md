@@ -1,2 +1,2 @@
 # hello-word
-HELLO WORD
+HELLO WORLD
